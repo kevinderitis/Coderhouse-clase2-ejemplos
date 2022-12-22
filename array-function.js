@@ -16,3 +16,5 @@ let array2 = [1, 2, 3, 'cuatro', 5, 'veinte']
 let array3 = ['aslfasl', 'asfasfaa', 222022]
 
 let resultado = mostrarLista(array2)
+
+
